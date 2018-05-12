@@ -1,0 +1,30 @@
+_repo: Fr-hling_40733
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40733-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Schlaf, Johannes
+    birthdate: 1862
+    deathdate: 1941
+    gutenberg_agent_id: '1518'
+    url: http://www.gutenberg.org/2009/agents/1518
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/1517
+    - http://en.wikipedia.org/wiki/Johannes_Schlaf
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2012-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40733'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German literature'
+- !lcc 'PT'
+title: Frühling
+url: http://www.gutenberg.org/ebooks/40733
